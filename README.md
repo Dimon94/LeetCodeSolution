@@ -8,5 +8,5 @@ LeetCode
 
 | #    | Title                                    | Solution                                 | Difficulty |
 | ---- | ---------------------------------------- | ---------------------------------------- | ---------- |
-| 1    | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Java](./algorithms/java/twoSum/1.two-sum.java) | Easy       |
+| 1    | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Java](LeetCodeSolution/algorithms/java/src/twoSum/1.two-sum.java) | Easy       |
 
